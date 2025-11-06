@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello World, I see that you are finally here.
+Hello World, Ahh I see that you are finally here.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/38e2d456-7572-41ae-8def-1550a29983d7" alt="Kakashi Welcome" width="400" />
