@@ -44,7 +44,7 @@ Whether it's building sleek Power BI dashboards or optimizing SQL queries — I 
 ![yoda-star-wars](https://github.com/user-attachments/assets/19b4e064-6ca3-4b14-8d6d-959fff944660)
 
 *Patience is Power*.
-Waiting. Preparing. That edge comes not just from speed—but from persistence, and quietly building strength in the background.
+Waiting for my time. Preparing for the moment. Learning and Growing patiently, and quietly building strength in the background.
 ---
 
 ### 📈 My Favorite Projects (Coming Soon 🚀)
