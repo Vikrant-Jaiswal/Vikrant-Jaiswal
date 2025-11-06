@@ -34,6 +34,12 @@ Whether it's building sleek Power BI dashboards or optimizing SQL queries — I 
 | ⚙️ Other Skills | Data Cleaning • Dashboard Design • KPI Analysis • Process Automation |
 
 ---
+### 🌟 My Philosophy  
+<img src="[https://tenor.com/view/yoda-star-wars-gif-16477632884420340106]" alt="Patience is Power" align="right" width="200" />  
+I believe *Patience is Power*.  
+Waiting. Preparing. Perfecting. That edge comes not just from speed—but from persistence, precision, and quietly building strength in the background.
+
+---
 
 ### 📈 My Favorite Projects (Coming Soon 🚀)
 
