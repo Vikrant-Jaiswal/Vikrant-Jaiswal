@@ -47,9 +47,9 @@ Whether it's building sleek Power BI dashboards or optimizing SQL queries — I 
 Waiting for my time. Preparing for the moment. Learning and Growing patiently, and quietly building strength in the background.
 ---
 
-### 📈 My Favorite Projects (Coming Soon 🚀)
+### 📈 My Favorite Projects 🚀
 
-- **Check out my repositories to find out**  
+**You won't find everything here, check out my repositories to find out**  
 
 *(Keep visiting — portfolio uploads in progress!)*
 
