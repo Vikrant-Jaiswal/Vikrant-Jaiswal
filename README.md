@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-Hello World, Welcome to my profile.
+Hello World, I see that you are finally here.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38e2d456-7572-41ae-8def-1550a29983d7" alt="Kakashi Welcome" width="400" />
+</p>
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#0078D7;">Vikrant Jaiswal</span>!</h1>
 
 <p align="center">
@@ -35,10 +40,11 @@ Whether it's building sleek Power BI dashboards or optimizing SQL queries — I 
 
 ---
 ### 🌟 My Philosophy  
-<img src="[https://tenor.com/view/yoda-star-wars-gif-16477632884420340106]" alt="Patience is Power" align="right" width="200" />  
-I believe *Patience is Power*.  
-Waiting. Preparing. Perfecting. That edge comes not just from speed—but from persistence, precision, and quietly building strength in the background.
+  
+![yoda-star-wars](https://github.com/user-attachments/assets/19b4e064-6ca3-4b14-8d6d-959fff944660)
 
+*Patience is Power*.
+Waiting. Preparing. That edge comes not just from speed—but from persistence, and quietly building strength in the background.
 ---
 
 ### 📈 My Favorite Projects (Coming Soon 🚀)
